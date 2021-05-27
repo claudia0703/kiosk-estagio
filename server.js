@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const dotenv = require ('dotenv');
 const data=require('./data');
 
-
+mongodb+srv://claudia:estagio@cluster0.xtwa3.mongodb.net/kiosk-estagaio?retryWrites=true&w=majority
 
 const app=express();
 
